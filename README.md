@@ -16,9 +16,6 @@ To successfully run the notebook and Flask API, the following Python packages ar
 
 Make sure that all required packages are installed before running the notebook or the Flask API. You can install them using conda:
 
-```bash
-conda install flask numpy pandas sqlalchemy
-
 ## How to Run the Flask API
 1. Clone this repo to your local machine.
 2. Open your terminal and create a new conda environment with the following command:
@@ -65,3 +62,7 @@ One of the main challenges was managing the compatibility between different pack
 
 ## Final Thoughts
 Overall, this project was a valuable exercise in setting up a Flask API, using SQLAlchemy for database interactions, and performing data analysis with Pandas. 
+
+```bash
+conda install flask numpy pandas sqlalchemy
+
